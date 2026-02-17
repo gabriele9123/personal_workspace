@@ -37,11 +37,23 @@ Tools:          Git | Docker | Microsoft 365 | Google Workspace
 - 🌐 Multilingual: Italian (Native), English (C1), Portuguese (C1), Chinese (B2)
 
 ### 💡 Featured Projects
-*Coming soon! I'm currently organizing my best work to showcase here. Check back soon for:*
-- Data pipeline automation frameworks
-- ETL workflow examples
-- Analytics dashboards and visualization projects
-- Process optimization tools
+
+1. **[Logistics Data Pipeline](https://github.com/gabriele9123/logistics-data-pipeline)** 🚀  
+   *Production-ready ETL pipeline for transport & logistics data*
+   - **Stack**: Python | Apache Airflow | SQLite | Pandas | SQLAlchemy
+   - **Features**: Real-time data extraction, parallel processing, automated scheduling, data quality checks
+   - **Data**: 321 bike stations across European cities, flight tracking for major airports
+   - **Tests**: 100% pass rate with comprehensive unit tests
+   - **Impact**: Demonstrates pipeline orchestration, API integration, and database design skills relevant to supply chain operations
+
+2. **[Financial Markets Pipeline](https://github.com/gabriele9123/financial-markets-pipeline)** 📈  
+   *Real-time ETL pipeline for financial market data*
+   - **Stack**: Python | Apache Airflow | Pandas | Multi-source APIs
+   - **Features**: Stock tracking, crypto monitoring, forex rates, time-series analysis
+   - **Data Sources**: Alpha Vantage (stocks), CoinGecko (crypto), ExchangeRate (forex)
+   - **Impact**: Showcases financial data engineering, real-time processing, and different domain expertise
+
+*Project 3 coming soon: Data Cleaning & Visualization Dashboard*
 
 ### 📈 Professional Journey
 - **2022-Present**: Ops Tech Engineer @ HelloFresh, Milan
