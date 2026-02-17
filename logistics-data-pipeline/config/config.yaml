@@ -1,0 +1,46 @@
+# Logistics Data Pipeline Configuration
+
+# Cities to monitor (European cities relevant to HelloFresh markets)
+data_sources:
+  citybikes:
+    enabled: true
+    url: "https://api.citybik.es/v2/networks"
+    cities:
+      - "bicincitta-milano"
+      - "velib-paris"
+      - "bicing"
+      - "bikemi"
+    
+  opensky:
+    enabled: true
+    base_url: "https://opensky-network.org/api"
+    airports:
+      - code: "LIMC"
+        name: "Milan Malpensa"
+        bbox: [8.5, 45.4, 8.8, 45.7]
+      - code: "EDDM"
+        name: "Munich Airport"
+        bbox: [11.4, 48.0, 11.8, 48.3]
+      - code: "EHAM"
+        name: "Amsterdam Schiphol"
+        bbox: [4.6, 52.2, 4.9, 52.4]
+
+# Database Configuration
+database:
+  type: "sqlite"
+  path: "data/logistics.db"
+  tables:
+    bikes: "bike_stations"
+    flights: "flights"
+
+# Pipeline Configuration
+pipeline:
+  schedule_interval: "*/30 * * * *"
+  max_retries: 3
+  retry_delay: 300
+  catchup: false
+
+# Logging
+logging:
+  level: "INFO"
+  format: "%(asctime)s - %(name)s - %(levelname)s - %(message)s"
