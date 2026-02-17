@@ -53,7 +53,12 @@ Tools:          Git | Docker | Microsoft 365 | Google Workspace
    - **Data Sources**: Alpha Vantage (stocks), CoinGecko (crypto), ExchangeRate (forex)
    - **Impact**: Showcases financial data engineering, real-time processing, and different domain expertise
 
-*Project 3 coming soon: Data Cleaning & Visualization Dashboard*
+3. **[Data Analytics Dashboard](https://github.com/gabriele9123/data-analytics-dashboard)** 📊  
+   *Interactive e-commerce sales analysis and visualization dashboard*
+   - **Stack**: Python | Streamlit | Plotly | Pandas | Scikit-learn
+   - **Features**: Data cleaning pipeline, EDA, customer segmentation, RFM analysis, interactive visualizations
+   - **Analysis**: 500K+ transactions, customer behavior patterns, product performance, geographic insights
+   - **Impact**: Demonstrates end-to-end data analysis workflow from raw data to actionable insights
 
 ### 📈 Professional Journey
 - **2022-Present**: Ops Tech Engineer @ HelloFresh, Milan
