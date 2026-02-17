@@ -1,9 +1,11 @@
 # Site settings
-title: "Personal Workspace"
-description: "A showcase of my projects and achievements"
+title: "Gabriele Pascaretta - Data Engineer & Analyst"
+description: "Data Analyst & Engineer specializing in scalable pipelines, automation workflows, and real-time insights using Python, Airflow, SQL, and cloud technologies."
 url: "https://github.com/gabriele9123"
 baseurl: "/personal_workspace"  # Leave empty if deploying to root
 author: "Gabriele Pascaretta"
+email: "gabriele.pascaretta@gmail.com"
+location: "Milan, Italy"
 
 # GitHub Pages settings
 repository: gabriele9123/personal_workspace
@@ -14,3 +16,8 @@ theme: minima
 # Social media
 github_username: gabriele9123
 linkedin_username: gabriele-pascaretta
+
+# Professional info
+tagline: "Transforming operational data into actionable intelligence"
+currently_working_at: "HelloFresh"
+role: "Ops Tech Engineer"
