@@ -1,51 +1,66 @@
-## GitHub Portfolio
+# Hi there, I'm Gabriele Pascaretta 👋
 
-Welcome to my GitHub Portfolio! This repository showcases a collection of my projects, skills, and accomplishments as a developer, with a focus on Python automation and data analysis. Below, you’ll find an overview of what’s included in this repository and links to individual projects.
+## 🚀 Data Analyst & Engineer | Pipeline Architect | Automation Enthusiast
 
+Welcome to my GitHub! I'm a data professional based in **Milan, Italy**, specializing in building scalable data pipelines and automation workflows that transform raw operational data into actionable, real-time insights.
 
-## About Me
-I’m Gabriele, a passionate developer with a strong interest in Python automation, data analysis, and process optimization.
-I currently live in Milan awhere I work as a data analyst in the food industry.
+Currently working as an **Ops Tech Engineer at HelloFresh**, where I architect supply chain and fulfillment data solutions that power decision-making across multiple European markets.
 
+### 💼 What I Do
+- 🔧 **Engineer data pipelines** using Python, Airflow, and Kafka for real-time data processing
+- 📊 **Build analytics solutions** with SQL, optimizing queries across multi-million row datasets
+- ⚡ **Automate workflows** to eliminate manual processes and drive operational efficiency
+- 📈 **Create dashboards** using Tableau and Power BI for real-time KPI monitoring
+- ☁️ **Work with cloud technologies** (AWS) for scalable data infrastructure
 
-## Projects Included
-Here are some key projects you’ll find in this portfolio:
+### 🎯 Key Achievements
+- ⚡ Reduced manual data processing time by **20-40%** through automated pipelines
+- 🚀 Improved SQL query performance by **2-3x** with optimization and indexing strategies
+- 📊 Deployed dashboards monitoring KPIs across **3+ European markets** in real-time
+- 🔄 Built Kafka-based streaming integrations connecting order management and warehouse systems
 
-1. **[Project 1 Name]**  
-   *Description*: A brief description of what the project does.  
-   *Tech Stack*: Python, Flask, Pandas  
-   *Link*: [Project URL or repo link]  
-   
-2. **[Project 2 Name]**  
-   *Description*: Automating data reports using Python and Apps Script for better business insights.  
-   *Tech Stack*: Python, Google Sheets API  
-   *Link*: [Project URL or repo link]  
-   
-3. **[Project 3 Name]**  
-   *Description*: Process mapping and optimization tools for production logistics.  
-   *Tech Stack*: VBA, Power BI  
-   *Link*: [Project URL or repo link]  
+### 🛠️ Tech Stack
 
+```
+Languages:      Python | SQL | Go
+Data Pipeline:  Apache Airflow | Apache Kafka | AWS
+Analytics:      Tableau | Power BI | Qlik
+Databases:      SQL (PostgreSQL, MySQL)
+Cloud:          AWS (S3, Lambda, RDS)
+Tools:          Git | Docker | Microsoft 365 | Google Workspace
+```
 
-## How to Use
-- Clone this repository:
-    ```bash
-    git clone https://github.com/gabriele9123/personal_workspace.git
-    ```
-- Navigate through the projects directory and follow the individual project instructions for setup.
+### 📚 Background
+- 🎓 **Master's in Data Science** - Rome Business School (2021-2022)
+- 🎓 **Master's in International Cooperation** - Milan University (2013-2015)
+- 🌏 **Operations Management Program** - Tianjin University of Technology, China (2015-2016)
+- 🌐 Multilingual: Italian (Native), English (C1), Portuguese (C1), Chinese (B2)
 
+### 💡 Featured Projects
+*Coming soon! I'm currently organizing my best work to showcase here. Check back soon for:*
+- Data pipeline automation frameworks
+- ETL workflow examples
+- Analytics dashboards and visualization projects
+- Process optimization tools
 
-## Skills Highlighted
-- Python (Automation, Scripting)
-- Airflow (DAGS creation and maintenance)
-- Data Analysis (Pandas, SQL)
-- Visualization Tools (Power BI, Tableau)
-- Process Optimization (VBA, Apps Script)
+### 📈 Professional Journey
+- **2022-Present**: Ops Tech Engineer @ HelloFresh, Milan
+- **2020-2022**: Business Developer Analyst @ Mia Burton, Milan
+- **2018-2020**: Partner Service Specialist @ Farfetch, Porto
+- **2017-2018**: Partner Success Specialist @ Farfetch, Porto
 
-
-## Contact
-Feel free to reach out to me via [LinkedIn]([https://www.linkedin.com/in/your-linkedin](https://www.linkedin.com/in/gabriele-pascaretta/)).
+### 🤝 Let's Connect
+- 💼 [LinkedIn](https://www.linkedin.com/in/gabriele-pascaretta/)
+- 📧 gabriele.pascaretta@gmail.com
+- 📍 Milan, Italy
 
 ---
 
-Thank you for visiting my GitHub portfolio!
+### 📊 GitHub Stats
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=gabriele9123&show_icons=true&theme=radical)
+
+---
+
+💬 *"Passionate about eliminating manual processes to drive efficiency and empower stakeholders with actionable intelligence."*
+
+**⭐ If you find my work interesting, feel free to star the repositories and reach out for collaboration!**
